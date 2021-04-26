@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 20, 2020, 3:53:03 PM
+    Author     : asus
+*/
+
+body{
+    margin: 0px;
+}
+.d_form{
+    
+    text-align: center;
+    line-height: 40px;
+}
+.d_form2{
+    width: 600px;
+    height: 200px;
+    background-color: pink;
+    margin-left: 450px;
+    border-radius: 30px;
+}
+h2{
+    margin: 0px;
+}

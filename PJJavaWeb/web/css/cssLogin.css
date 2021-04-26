@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2020, 10:26:42 PM
+    Author     : asus
+*/
+#login{
+    padding-top:200px; 
+    text-align: center;   
+}
+#login h1{
+    margin:0px;
+}
+#canchinhLogin{
+    background-color: #E8D3E3;
+    border-radius: 30px;
+    opacity :80%;
+    width: 35%;
+    margin-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 70px;
+    line-height: 35px;
+}
+#backgroungLogin{
+    background-image: url(../image/binz2.png);
+    background-size: cover;
+    height: 900px;
+}
+#styleFont{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.icon{
+    text-align: left;
+    margin-left: 68px;
+}

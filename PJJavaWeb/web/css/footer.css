@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 14, 2020, 10:36:55 PM
+    Author     : asus
+*/
+
+.footer{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: whitesmoke;
+}
+.f_header{
+    padding: 40px;
+    margin-left: 50px;
+    display: flex;
+}
+.f_span{
+    font-size: 25px;
+    margin-right: 200px;
+}
+.f_bottom{
+    display: flex;
+}
+.f_detail{
+    margin-left: 90px;
+    margin-right: 35px;
+    width: 33%;
+}
+.f_detail_p1{
+    color: pink;
+    font-size: 40px;
+}
+.f_infor{
+    margin-left: 85px;
+    display: flex;
+}
+.f_infor img{
+    margin-left: 100px;
+    width: 50px;
+    height: 50px;
+}
+.f_infor div{
+    width: 34%;
+}
+.f_detail2 p{
+    font-size: 25px; 
+    margin-left: 50px;
+}
+.f_detail2{
+    margin-left: 280px;
+}
+.f_detail2 ul{
+    display: flex;
+}
+.f_detail2 ul li{
+    list-style-type: none;
+}
+.f_detail2 ul li img{
+    margin-left: 25px;
+    width: 60px;
+    height: 60px;
+}

@@ -1,0 +1,49 @@
+#totalBody{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#showProduct{ 
+    display: flex;
+}
+#eachProduct{
+    padding-top: 50px;
+    width: 400px;
+    text-align: center;
+    background-color: whitesmoke;
+}
+#totalBody{
+    
+}
+#in4product{
+    
+}
+.pagination{
+    list-style: none;
+    
+}
+#phantrang{
+    display: flex;
+    margin-left: 600px;
+}
+#amountPage{
+    
+}
+button{
+    padding: 9px;
+    margin: 2px;
+}
+button:active{
+    background: background;
+}
+.themhang{
+    margin-top: -190px;
+    margin-right: -130px;
+}
+
+
+.iCart{
+    display: none;
+}
+#eachProduct:hover .iCart{
+    display: block;
+}

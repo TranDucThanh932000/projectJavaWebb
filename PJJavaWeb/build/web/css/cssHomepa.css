@@ -1,0 +1,120 @@
+.iCart{
+    display: none;
+}
+.sphover:hover .iCart{
+    display: block;
+}
+#owl-demo .item{
+  margin: 3px;
+}
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+#spBanChay a{
+    margin-left: 100px;
+    width: 33%; 
+}
+#spBanChay span{
+   margin-left: 200px;
+}
+
+#inforBanChay{
+    text-align: center;
+    margin-left: -100px;
+}
+#spBanChay{
+    display: flex;
+}
+.home_img1,.home_img2{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.home_img1 img{
+    width: 100%;
+}
+.bigcity_img img{
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 150px;
+    width: 1376px;
+}
+.pr{
+    display: flex;
+    width: 100%;
+}
+.pr img{
+    
+    width: 30px;
+    height: 30px;
+    padding-bottom: 54px;
+}
+.pr div{
+    
+    width: 100%;
+/*    padding-left: 100px;
+    padding-right: 100px;*/
+    height: 90px;
+    background-color: white;
+    border-radius: 10px;
+}
+.pr div div #wtf{
+   padding-bottom: 0px; 
+   margin-bottom: 0px;
+}
+#wtf2{
+    padding-bottom: 0px;
+}
+.pr_pr div{
+    padding-bottom: 0px;
+    height: 20px;
+}
+.pr_pr{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 10px;
+    opacity: 70%;
+}
+.pr_pr:hover{
+    zoom: 110%;
+    opacity: 100%;
+}
+
+.home_img2{
+    margin-top: -150px;
+}
+p{
+    margin:0px;
+    color: black;
+}
+.hr1{
+    width: 30%;
+    background-color: pink;
+    float:left;
+    margin-right: 110px;
+}
+.hr2{
+    width: 30%;
+    background-color: pink;
+    float:right;
+}
+.product{
+    margin-top: 50px;
+}
+span{
+    margin: 0px;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+#addtoCart{
+    margin-top: -450px;
+    margin-left: 400px;
+}
+
+
+
+
+
+
